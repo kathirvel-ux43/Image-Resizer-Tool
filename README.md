@@ -21,13 +21,13 @@ python app.py
 ```
 
 Project Structure
-
+```
 your-project/
 ├── input_images/ # Add your images here
 ├── output_images/ # Resized images appear here
 ├── app.py # Main script
 └── requirements.txt # List of dependencies
-
+```
 Features
 * Resize multiple images in one click
 * Supports JPG, PNG, JPEG formats
